@@ -64,9 +64,9 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A5C2530258E871A06342716A /* Pods-PodTest_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodTest_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PodTest_Tests/Pods-PodTest_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		A8FA54A433A70E03BB624381 /* Pods-PodTest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodTest_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-PodTest_Example/Pods-PodTest_Example.release.xcconfig"; sourceTree = "<group>"; };
-		AA0C5EB2746EDE5B8D9FAB49 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		B308E3872B0CEA33F2A014E9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		DC2F8772146C48A64A64FF8C /* PodTest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = PodTest.podspec; path = ../PodTest.podspec; sourceTree = "<group>"; };
+		AA0C5EB2746EDE5B8D9FAB49 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		B308E3872B0CEA33F2A014E9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		DC2F8772146C48A64A64FF8C /* PodTest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PodTest.podspec; path = ../PodTest.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
