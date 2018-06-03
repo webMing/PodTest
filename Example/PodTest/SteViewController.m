@@ -7,6 +7,7 @@
 //
 
 #import "SteViewController.h"
+#import  <PodTest/SteSay.h>
 
 @interface SteViewController ()
 
@@ -17,6 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+//    SteSay* ste = [SteSay new];
+//    [ste say:@"Hello"];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
