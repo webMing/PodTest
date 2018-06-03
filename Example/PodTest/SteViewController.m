@@ -7,7 +7,11 @@
 //
 
 #import "SteViewController.h"
-#import  <PodTest/SteSay.h>
+
+// 可以创建一个快捷的方式(包含各种文件)
+#import <PodTest/SteSayHeader.h>
+// 也可单独引出各个文件.
+//#import <PodTest/SteSay.h>
 
 @interface SteViewController ()
 
@@ -18,9 +22,10 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-//    SteSay* ste = [SteSay new];
-//    [ste say:@"Hello"];
+    SteSay* ste = [SteSay new];
+    [ste say:@"Hello"];
 	// Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"%ld",var);
 }
 
 - (void)didReceiveMemoryWarning

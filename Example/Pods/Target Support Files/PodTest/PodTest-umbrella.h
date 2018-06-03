@@ -11,6 +11,7 @@
 #endif
 
 #import "SteSay.h"
+#import "SteSayHeader.h"
 
 FOUNDATION_EXPORT double PodTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char PodTestVersionString[];

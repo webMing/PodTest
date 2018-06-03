@@ -18,5 +18,11 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "PodTest/Classes/**/*"
+  "source_files": "PodTest/Classes/**/*",
+  "resource_bundles": {
+    "PodTest": [
+      "PodTest/Assets/*"
+    ]
+  },
+  "public_header_files": "PodTest/Classes/*.h"
 }
